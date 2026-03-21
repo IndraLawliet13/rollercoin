@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+
+# local auth/runtime
+token.txt
+activity_log.json
+potential_actions.json
+config.json
+.env
+
+# editor
+.vscode/
+.idea/
+.DS_Store
